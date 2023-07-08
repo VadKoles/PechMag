@@ -1424,7 +1424,11 @@ textarea{
         color: #dfac55;
         padding: 12px;
     }
-
+    select {
+        width: 228px;
+        height: 24px;
+        font-size: 12px;
+    }
 }
 @media (max-width: 329px) {
     .pos1{
